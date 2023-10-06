@@ -1,7 +1,9 @@
 # Tugas_MobCom_W3
 
 # Demo Calculator
-https://github.com/LisandraN08/Tugas_MobCom_W3/assets/95264937/5aee5618-fc82-4b49-8953-f9fdc5d17413
+https://github.com/LisandraN08/Tugas_MobCom_W3/assets/95264937/d6c8bcec-9f93-4dcf-8fb1-cb587d600c4f
+
+
 
 Sebuah sistem aplikasi kalkulator yang dirancang untuk melakukan berbagai tugas perhitungan matematika dasar. Berikut adalah penjelasan beberapa hal yang dapat dilakukan oleh kalkulator ini:
 1. Operasi Aritmetika Dasar:
